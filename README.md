@@ -12,7 +12,7 @@ I'm a passionate iOS developer with over a year of experience crafting beautiful
 - 🌱 Learning **SwiftUI, Combine, and iOS Architecture Patterns**
 - 👯 Looking to collaborate on **open-source iOS projects**
 - 💬 Ask me about **Swift, UIKit, Core Data, and iOS best practices**
-- 📫 Reach me at **[your.email@example.com]**
+- 📫 Reach me at **[m.aliyansohaib@gmail.com]**
 - ⚡ Fun fact: **I debug with print statements and I'm not ashamed! 😄**
 
 ## 🛠️ Tech Stack
@@ -38,12 +38,12 @@ I'm a passionate iOS developer with over a year of experience crafting beautiful
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aliyanissohaib&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyanissohaib&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliyanissohaib&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## 🚀 Featured Projects
@@ -70,13 +70,13 @@ I'm a passionate iOS developer with over a year of experience crafting beautiful
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliyanissohaib&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </div>
 
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aliyanissohaib&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="Trophy"/>
 </div>
 
 ## 🎯 Current Learning Goals
@@ -91,9 +91,9 @@ I'm a passionate iOS developer with over a year of experience crafting beautiful
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliyanissohaib)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aliyanissohaib)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.aliyansohaib@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 </div>
@@ -101,9 +101,9 @@ I'm a passionate iOS developer with over a year of experience crafting beautiful
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=aliyanissohaib&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 <div align="center">
-  <i>⭐️ From [YourUsername](https://github.com/YourUsername)</i>
+  <i>⭐️ From [aliyanissohaib](https://github.com/aliyanissohaib)</i>
 </div>
