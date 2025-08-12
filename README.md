@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&width=440&lines=iOS+Developer+%F0%9F%93%B1;Swift+Enthusiast+%E2%9A%A1;Building+Amazing+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
-
+  
 ## 🍎 About Me
 
 I'm a passionate iOS developer with over a year of experience crafting beautiful and functional mobile applications. I love bringing ideas to life through clean code and intuitive user experiences.
