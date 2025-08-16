@@ -62,7 +62,7 @@ I'm a passionate iOS developer with over a year of experience crafting beautiful
 - Custom UI components and smooth animations
 
 ### 🔧 [Open Source Contribution](https://github.com/someone/project)
-**Swift Package | Community Contribution**
+**Swift Package | Community Contribution**  
 - Contributed to [project name] by implementing [feature]
 - Fixed critical bugs and improved performance
 - Active in code reviews and community discussions
