@@ -17,7 +17,7 @@ I'm a passionate iOS developer with over a year of experience crafting beautiful
                
 ## 🛠️ Tech Stack   
    
-### Languages & Frameworks
+### Languages & Frameworks   
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white)
