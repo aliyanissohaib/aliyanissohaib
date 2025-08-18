@@ -15,7 +15,7 @@ I'm a passionate iOS developer with over a year of experience crafting beautiful
 - 📫 Reach me at **m.aliyansohaib@gmail.com**      
 - ⚡ Fun fact: **I debug with print statements and I'm not ashamed! 😄**                   
                    
-## 🛠️ Tech Stack   
+## 🛠️ Tech Stack       
    
 ### Languages & Frameworks   
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
