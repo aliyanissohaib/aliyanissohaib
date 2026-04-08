@@ -8,7 +8,7 @@
             
 I'm a passionate iOS developer with over a year of experience crafting beautiful and functional mobile applications. I love bringing ideas to life through clean code and intuitive user experiences.                  
                   
-- 🔭 Currently working on **[Your Current Project]**          
+- 🔭 Currently working on Basic Skils of IOS/Macos       
 - 🌱 Learning **SwiftUI, Combine, and iOS Architecture Patterns**                  
 - 👯 Looking to collaborate on **open-source iOS projects**                       
 - 💬 Ask me about **Swift, UIKit, Core Data, and iOS best practices**                 
