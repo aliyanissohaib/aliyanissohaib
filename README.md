@@ -45,7 +45,7 @@ I'm a passionate iOS developer with over a year of experience crafting beautiful
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliyanissohaib&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
-
+<!--
 ## 🚀 Featured Projects
 
 ### 📱 [Project Name 1](https://github.com/yourusername/project1)
@@ -66,7 +66,7 @@ I'm a passionate iOS developer with over a year of experience crafting beautiful
 - Contributed to [project name] by implementing [feature]
 - Fixed critical bugs and improved performance
 - Active in code reviews and community discussions
-
+-->
 ## 📈 Contribution Graph
 
 <div align="center">
